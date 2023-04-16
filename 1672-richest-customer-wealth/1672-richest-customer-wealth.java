@@ -1,5 +1,3 @@
-import java.util.Arrays.*;
-
 class Solution {
     public int maximumWealth(int[][] accounts) {
         return Arrays.stream(accounts)
